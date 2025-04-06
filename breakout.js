@@ -4,7 +4,7 @@ bounceSnd.volume = 0.7;
 let breakSound = new Audio("break.wav");
 breakSound.volume = 0.8;
 let lvlUpSnd = new Audio("levelUp.wav");
-lvlUpSnd.volume = 1.2;
+lvlUpSnd.volume = 1.0;
 
 //board
 let board;
